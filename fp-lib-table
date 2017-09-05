@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ESP8266)(type Github)(uri https://github.com/jdunmire/kicad-ESP8266/tree/master/ESP8266.pretty)(options "")(descr ""))
+)
